@@ -1,0 +1,6 @@
+@VidyalayaVikas_HostAddress = http://localhost:5271
+
+GET {{VidyalayaVikas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
